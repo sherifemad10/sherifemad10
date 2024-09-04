@@ -7,7 +7,7 @@
   
 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2000&pause=1000&color=26B43D&center=true&multiline=true&width=435&height=220&separator=%3C&lines=Happiness+%F0%9F%98%89%3CIs%7B%3Ca+day%3CSpent%3Ccoding();%3C%7D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1000&pause=1000&color=26B43D&center=true&multiline=true&width=435&height=220&separator=%3C&lines=Happiness+%F0%9F%98%89%3CIs%7B%3Ca+day%3CSpent%3Ccoding();%3C%7D" alt="Typing SVG" /></a>
   </p>
   <br>
 
